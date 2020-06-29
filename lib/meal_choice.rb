@@ -4,5 +4,4 @@ def meal_choice (veg1, veg2, protein="tofu")
   puts a_plate_of
   return a_plate_of
 end
-
-
+meal_choice "carrots", "string beans"
