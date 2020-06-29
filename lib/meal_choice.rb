@@ -3,4 +3,4 @@ def meal_choice (veg1, veg2, protein="tofu")
   a_plate_of ="A plate of #{protein} with #{veg1} and #{veg2}."
   return a_plate_of
 end
-meal_choice "carrots", "string beans"
+meal_choice ("carrots", "string beans")
